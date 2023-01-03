@@ -28,7 +28,7 @@ public class SignUp : MonoBehaviour
 
     void ButtonAddListener()
     {
-        signUpButton.onClick.AddListener();
+        // signUpButton.onClick.AddListener();
     }
     
     
