@@ -132,8 +132,8 @@ public class PhotonLauncher : MonoBehaviourPunCallbacks
         }
         else
         {
-            playerCount.text = "Player Count : ";
-            roomName.text = "Room Name : ";
+            playerCount.text = "Player Count : - ";
+            roomName.text = "Room Name : - ";
         }
     }
 
